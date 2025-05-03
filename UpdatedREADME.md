@@ -6,7 +6,7 @@ Uptade:
 live linke site for game: https://braidyndenzer.github.io/FinalProject/
 This project took a while due to me having to reserch a bunch of extra stuff for the game. for example,
 implementing gravity.
-making my charecter stay on platforms instead of sliding off.
+other things include, making my charecter stay on platforms instead of sliding off.
 level transitions.
 implementing charecters, backrounds, and death and win screens, with png, jpg, and jfif.
 the hitboxes are also a little funky due to me having the charecter as small.
